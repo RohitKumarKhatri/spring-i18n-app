@@ -1,7 +1,3 @@
-Here is a sample `README.md` file for your Spring Boot Internationalization demo app:
-
----
-
 # Spring Boot Internationalization Demo
 
 This is a Spring Boot application that demonstrates the use of Internationalization (i18n) with three languages: English (`en`), Spanish (`es`), and French (`fr`). The application uses an H2 in-memory database to store user information, which includes a preferred language setting. Depending on the user's language preference, a localized greeting message is displayed using Apache FreeMarker.
