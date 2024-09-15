@@ -43,8 +43,12 @@ The application will start on `http://localhost:8080`.
 You can access the greeting page by providing a user ID in the URL. For example:
 
 - [http://localhost:8080/greeting/1](http://localhost:8080/greeting/1) - Returns a greeting for user 1 (English)
+![user-1.png](src/main/resources/images/user-1.png)
+
 - [http://localhost:8080/greeting/2](http://localhost:8080/greeting/2) - Returns a greeting for user 2 (Spanish)
+![user-2.png](src/main/resources/images/user-2.png)
 - [http://localhost:8080/greeting/3](http://localhost:8080/greeting/3) - Returns a greeting for user 3 (French)
+![user-3.png](src/main/resources/images/user-3.png)
 
 ### Running Tests
 
