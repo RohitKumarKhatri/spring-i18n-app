@@ -12,7 +12,7 @@ This is a Spring Boot application that demonstrates the use of Internationalizat
 
 ## Requirements
 
-- Java 17+
+- Java 20+
 - Gradle 7.0+
 
 ## Setup Instructions
